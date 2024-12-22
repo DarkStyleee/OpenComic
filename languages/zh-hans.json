@@ -219,7 +219,9 @@
 		"addBookmark": "添加书签",
 		"removeBookmark": "移除书签",
 		"emptyBookmarks": "暂无书签",
-		"currentReading": "当前阅读"
+		"currentReading": "当前阅读",
+		"autoScroll": "",
+		"autoScrollSpeed": ""
 	},
 	"settings": {
 		"general": "常规设置",

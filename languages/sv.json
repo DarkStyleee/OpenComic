@@ -219,7 +219,9 @@
 		"addBookmark": "Lägg till bokmärke",
 		"removeBookmark": "Ta bort bokmärke",
 		"emptyBookmarks": "Inga bokmärken",
-		"currentReading": "Aktuell läsning"
+		"currentReading": "Aktuell läsning",
+		"autoScroll": "",
+		"autoScrollSpeed": ""
 	},
 	"settings": {
 		"general": "Allmänt",

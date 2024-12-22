@@ -5383,7 +5383,33 @@ async function read(path, index = 1, end = false, isCanvas = false, isEbook = fa
 	startSaveReadingProgressSI();
 }
 
+var autoScrollInterval = null;
+var autoScrollSpeed = 1;
+
+function toggleAutoScroll() {
+  if (autoScrollInterval) {
+    clearInterval(autoScrollInterval);
+    autoScrollInterval = null;
+    
+    storage.updateVar('config', 'autoScroll', false);
+  } else {
+    storage.updateVar('config', 'autoScroll', true);
+    
+    autoScrollInterval = setInterval(() => {
+      const content = template._contentRight().firstElementChild;
+      content.scrollTop += autoScrollSpeed;
+      
+      if (content.scrollTop + content.clientHeight >= content.scrollHeight) {
+        clearInterval(autoScrollInterval);
+        autoScrollInterval = null;
+        storage.updateVar('config', 'autoScroll', false);
+      }
+    }, 16);    
+  }
+}
+
 module.exports = {
+	toggleAutoScroll: toggleAutoScroll,
 	read: read,
 	images: function(){return images},
 	imagesNum: imagesNum,

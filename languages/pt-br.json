@@ -219,7 +219,9 @@
 		"addBookmark": "Adicionar a favorito",
 		"removeBookmark": "Remover favorito",
 		"emptyBookmarks": "Sem favoritos",
-		"currentReading": "Leitura atual"
+		"currentReading": "Leitura atual",
+		"autoScroll": "",
+		"autoScrollSpeed": ""
 	},
 	"settings": {
 		"general": "",

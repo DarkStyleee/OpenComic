@@ -219,7 +219,9 @@
 		"addBookmark": "เพิ่มบุ๊คมาร์ก",
 		"removeBookmark": "นำบุ๊คมาร์กออก",
 		"emptyBookmarks": "ไม่มีบุ๊คมาร์ก",
-		"currentReading": "กำลังอ่านอยู่"
+		"currentReading": "กำลังอ่านอยู่",
+		"autoScroll": "",
+		"autoScrollSpeed": ""
 	},
 	"settings": {
 		"general": "ทั่วไป",

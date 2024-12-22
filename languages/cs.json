@@ -219,7 +219,9 @@
 		"addBookmark": "Přidat záložku",
 		"removeBookmark": "Odstranit záložku",
 		"emptyBookmarks": "Žádné záložky",
-		"currentReading": "Rozečtené"
+		"currentReading": "Rozečtené",
+		"autoScroll": "",
+		"autoScrollSpeed": ""
 	},
 	"settings": {
 		"general": "",

@@ -219,7 +219,9 @@
 		"addBookmark": "Добавить закладку",
 		"removeBookmark": "Удалить закладку",
 		"emptyBookmarks": "Нет закладок",
-		"currentReading": "Текущее чтение"
+		"currentReading": "Текущее чтение",
+		"autoScroll": "Авто-прокрутка",
+		"autoScrollSpeed": "Скорость авто-прокрутки"
 	},
 	"settings": {
 		"general": "Общие",

@@ -219,7 +219,9 @@
 		"addBookmark": "Thêm dấu trang",
 		"removeBookmark": "Xóa dấu trang",
 		"emptyBookmarks": "Không có dấu trang",
-		"currentReading": "Hiện đang đọc"
+		"currentReading": "Hiện đang đọc",
+		"autoScroll": "",
+		"autoScrollSpeed": ""
 	},
 	"settings": {
 		"general": "Chung",

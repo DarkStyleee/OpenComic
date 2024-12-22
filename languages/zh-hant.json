@@ -219,7 +219,9 @@
 		"addBookmark": "新增書籤",
 		"removeBookmark": "移除書籤",
 		"emptyBookmarks": "暫無書籤",
-		"currentReading": "正在閱讀"
+		"currentReading": "正在閱讀",
+		"autoScroll": "",
+		"autoScrollSpeed": ""
 	},
 	"settings": {
 		"general": "",

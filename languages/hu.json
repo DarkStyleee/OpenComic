@@ -219,7 +219,9 @@
 		"addBookmark": "Könyvjelző hozzáadása",
 		"removeBookmark": "Könyvjelző törlése",
 		"emptyBookmarks": "Nincsenek könyvjelzők",
-		"currentReading": "Most olvasott"
+		"currentReading": "Most olvasott",
+		"autoScroll": "",
+		"autoScrollSpeed": ""
 	},
 	"settings": {
 		"general": "",

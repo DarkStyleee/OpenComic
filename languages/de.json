@@ -219,7 +219,9 @@
 		"addBookmark": "Lesezeichen hinzufügen",
 		"removeBookmark": "Lesezeichen entfernen",
 		"emptyBookmarks": "Keine Lesezeichen",
-		"currentReading": "Zurzeit lesend"
+		"currentReading": "Zurzeit lesend",
+		"autoScroll": "",
+		"autoScrollSpeed": ""
 	},
 	"settings": {
 		"general": "",

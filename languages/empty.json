@@ -219,7 +219,9 @@
 		"addBookmark": "",
 		"removeBookmark": "",
 		"emptyBookmarks": "",
-		"currentReading": ""
+		"currentReading": "",
+		"autoScroll": "",
+		"autoScrollSpeed": ""
 	},
 	"settings": {
 		"general": "",

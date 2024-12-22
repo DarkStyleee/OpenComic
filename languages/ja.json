@@ -219,7 +219,9 @@
 		"addBookmark": "しおりの追加",
 		"removeBookmark": "しおりの削除",
 		"emptyBookmarks": "しおりがありません",
-		"currentReading": "現在読んでいる位置"
+		"currentReading": "現在読んでいる位置",
+		"autoScroll": "",
+		"autoScrollSpeed": ""
 	},
 	"settings": {
 		"general": "",

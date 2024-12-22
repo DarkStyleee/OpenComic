@@ -219,7 +219,9 @@
 		"addBookmark": "Ajouter signet",
 		"removeBookmark": "Retirer signet",
 		"emptyBookmarks": "Aucun signet",
-		"currentReading": "Lecture en cours"
+		"currentReading": "Lecture en cours",
+		"autoScroll": "",
+		"autoScrollSpeed": ""
 	},
 	"settings": {
 		"general": "",

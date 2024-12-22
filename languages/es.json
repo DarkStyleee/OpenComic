@@ -219,7 +219,9 @@
 		"addBookmark": "Añadir marcador",
 		"removeBookmark": "Eliminar marcador",
 		"emptyBookmarks": "No hay ningún marcador",
-		"currentReading": "Lectura actual"
+		"currentReading": "Lectura actual",
+		"autoScroll": "",
+		"autoScrollSpeed": ""
 	},
 	"settings": {
 		"general": "General",
